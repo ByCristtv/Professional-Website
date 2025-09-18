@@ -110,7 +110,7 @@ const About = () => {
         flex flex-col items-center justify-center">
             <h1 ref={titleRef} className="text-4xl
              md:text-6xl font-bold sm:mb-16 text-center text-white">
-                About Me
+                Sobre Mi
             </h1>
         </div>
 
@@ -122,12 +122,8 @@ const About = () => {
             <h3 className="text-sm md:text-2xl font-bold
             text-purple-200 z-50 lg:max-w-[45rem] max-w-[27rem]
             tracking-wider md:mt-20 sm:mt-[-40rem] mt-[-32rem]">
-                Hi, I'm Cristian, and I'am a software engineering student with a strong passion for the web
-                development using different frameworks, being React as one of my favorite to work for the Front-end 
-                site, and Node.Js and Javascript for backend. I'm looking constantly looking for new chalenges for building
-                a better and competitive profile.
+                Soy ingeniero de software y desarrollador full-stack, me especializo en la creacion de aplicaciones web con diseños personalizados, optimizadas y escalables, ademas de ofrecer sercios de control de contenido para que puedas gestionar tu sitio web de manera sencilla y eficiente.
             </h3>
-
             <img className="lg:h-[40rem] md:h-[25rem]
             h-[20rem] mix-blend-lighten" src="images/person.png" alt="profile-img" />
         </div>

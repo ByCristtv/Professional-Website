@@ -20,7 +20,7 @@ const HeroSection = () => {
             }}
              className='text-5xl md:text-7xl
             lg:text-8xl font-bold z-10 mb-6'>
-                Full Stack <br/> Web Developer
+                Desarrollador <br/> Full-Stack
                 
             </motion.h1>
 
@@ -36,7 +36,7 @@ const HeroSection = () => {
             }}
              className="text-xl md:text-1xl
             lg:text-2xl text-purple-200 max-w-2xl">
-                Soy Cristian JS, desarrollador web Full-Stack con más de 3 años de experiencia y bachiller en Ingeniería de Sistemas. Ofrezco soluciones digitales a la medida, desde landing pages y blogs personalizados hasta aplicaciones web complejas como plataformas de e-Commerce con carrito de compras, manejo de usuarios, pasarelas de pago y diseño de bases de datos optimizados. Mi objetivo es ayudarte a llevar tus ideas al siguiente nivel con desarrollos modernos, escalables y de alto rendimiento que potencien tu negocio en el mundo digital.
+                Desarrollador web Full-Stack con más de 3 años de experiencia y bachiller en Ingeniería de Sistemas. Ofrezco soluciones digitales a la medida, desde landing pages y blogs personalizados hasta aplicaciones web complejas como plataformas de e-Commerce con carrito de compras, manejo de usuarios, pasarelas de pago y diseño de bases de datos optimizados.
 
             </motion.p>
         </div>
