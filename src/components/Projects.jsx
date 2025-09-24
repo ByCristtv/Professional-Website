@@ -17,21 +17,25 @@ export default function Projects () {
         id:1,
         title: "Nursing Home System",
         imageSrc: "/images/Hogar1.png",
+        url: "https://hogar-cariari.web.app/"
     },
      {
         id:2,
-        title: "Fragance Shop Website",
+        title: "Fragrance Shop Website",
         imageSrc: "/images/Perfum.png",
+        url: "https://fragrance-shop-xi.vercel.app/"
     },
     {
         id:3,
         title: "Chat App",
         imageSrc: "/images/3.png",
+        url: "https://chat-app-zeta-swart.vercel.app/"
     },
     {
         id:4,
-        title: "Nursing Home System 3",
-        imageSrc: "/images/Hogar1.png",
+        title: "My Portfolio",
+        imageSrc: "/images/Portfolio.png",
+        url: "https://cristian-portfolio-lake.vercel.app/"
     },
 ]
 
@@ -192,10 +196,10 @@ export default function Projects () {
                             src={project.imageSrc}
                             alt='Project-img'
                             />
-                            <h2 className='project-title flex items-center gap-3 md:text-3xl text-sm md:font-bold text-black mt-6 z-50 text-nowrap hover:text-gray-400
-                            transtion-colors duration-300 cursor-pointer'>
+                            <a href={project.url} className='project-title flex items-center gap-3 md:text-3xl text-sm md:font-bold text-black mt-6 z-50 text-nowrap hover:text-gray-400
+                            transition-colors duration-300 cursor-pointer'>
                                 {project.title} <SlShareAlt/>
-                            </h2>
+                            </a>
                         </div>
                     </div>
                 ))}

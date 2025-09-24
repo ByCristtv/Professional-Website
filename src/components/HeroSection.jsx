@@ -36,12 +36,10 @@ const HeroSection = () => {
             }}
              className="text-xl md:text-1xl
             lg:text-2xl text-purple-200 max-w-2xl">
-                Desarrollador web Full-Stack con más de 3 años de experiencia y bachiller en Ingeniería de Sistemas. Ofrezco soluciones digitales a la medida, desde landing pages y blogs personalizados hasta aplicaciones web complejas como plataformas de e-Commerce con carrito de compras, manejo de usuarios, pasarelas de pago y diseño de bases de datos optimizados.
-
+                Desarrollador web Full-Stack con bachiller en Ingeniería de Sistemas y más de 2 años de experiencia. Ofrezco soluciones digitales a la medida, desde paginas web personalizadas, hasta aplicaciones web complejas como plataformas de e-Commerce con carrito de compras, manejo de usuarios, pasarelas de pago y diseño de bases de datos optimizados.
             </motion.p>
         </div>
         <Spline className="absolute xl:right-[-28%] right-0 top-[-20%] lg:top-0" scene="https://prod.spline.design/JcXYMY2S8d8KTQZX/scene.splinecode" />
-
     </section>
   )
 }

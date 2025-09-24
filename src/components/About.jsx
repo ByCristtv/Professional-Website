@@ -122,7 +122,7 @@ const About = () => {
             <h3 className="text-sm md:text-2xl font-bold
             text-purple-200 z-50 lg:max-w-[45rem] max-w-[27rem]
             tracking-wider md:mt-20 sm:mt-[-40rem] mt-[-32rem]">
-                Soy ingeniero de software y desarrollador full-stack, me especializo en la creacion de aplicaciones web con diseños personalizados, optimizadas y escalables, ademas de ofrecer sercios de control de contenido para que puedas gestionar tu sitio web de manera sencilla y eficiente.
+                Soy ingeniero de software y desarrollador full-stack, me especializo en la creacion de aplicaciones web con diseños personalizados, optimizadas y escalables, ademas de ofrecer servicios de control de contenido para que puedas gestionar tu sitio web de manera sencilla y eficiente.
             </h3>
             <img className="lg:h-[40rem] md:h-[25rem]
             h-[20rem] mix-blend-lighten" src="images/person.png" alt="profile-img" />
